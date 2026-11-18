@@ -1,12 +1,8 @@
-# Welcome AI crawlers! (2026 best practice)
-
 User-agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://arbiter.convorecs.ai/sitemap.xml
 
-# AI crawlers
 User-agent: GPTBot
 Allow: /
 
@@ -34,7 +30,6 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-# Search engine crawlers
 User-agent: Googlebot
 Allow: /
 
@@ -59,7 +54,6 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-# Social media crawlers
 User-agent: facebookexternalhit
 Allow: /
 
@@ -69,7 +63,6 @@ Allow: /
 User-agent: Twitterbot
 Allow: /
 
-# SEO and web analysis crawlers
 User-agent: MJ12bot
 Allow: /
 
