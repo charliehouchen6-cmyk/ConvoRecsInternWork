@@ -1,4 +1,52 @@
+# Welcome AI crawlers! (2025 best practice)
+
 User-agent: *
 Allow: /
 
-Sitemap: https://convorecs.ai/sitemap.xml
+# Sitemap
+Sitemap: https://sugoi.convorecs.ai/sitemap.xml
+
+# AI Crawler Specific Rules (NEW for 2025)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Traditional Search Bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Social Media Bots
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
