@@ -1,4 +1,4 @@
-# Welcome AI crawlers! (2025 best practice)
+# Welcome AI crawlers! (2026 best practice)
 
 User-agent: *
 Allow: /
